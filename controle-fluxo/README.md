@@ -82,4 +82,4 @@ Projeto para Estudo por **Sabrina Gama**
 
 ## 📚 Créditos
 
-Projeto proposto durante a **trilha Java Básico** da **Digital Innovation One (DIO)** em parceria com o **Santander Bootcamp 2024**.
+Projeto proposto durante a **trilha Java Básico** da **Digital Innovation One (DIO)** em parceria com o **Santander Bootcamp 2025**.
