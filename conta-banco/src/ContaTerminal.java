@@ -31,7 +31,6 @@ public class ContaTerminal {
             System.out.println("Erro inesperado. Tente novamente!");
         }
 
-
         sc.close();
     }
 }
